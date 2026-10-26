@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Logicingas.Logicingas" alt="Profile views" />
+  <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=Logicingas.Logicingas" alt="Profile views" /> -->
 </p>
 
 <h1 align="center">Hi there, I'm Inga Mbobo 👋</h1>
-<h3 align="center">A Full-Stack Developer | Java & Spring Boot | React & Angular</h3>
+<h3 align="center">A Full-Stack Web-Application Developer and Aspiring Data Analyst | Java & Spring Boot | React & Angular</h3>
 
 <p align="center">
   <a href="https://ingasportfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
