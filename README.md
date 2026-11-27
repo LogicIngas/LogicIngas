@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi there, I'm Inga Mbobo 👋</h1>
-<h3 align="center">A aspiring  Full-Stack Web-Application Developer and Data Analyst | Java & Spring Boot | React & Angular</h3>
+<h3 align="center">A Full-Stack Web/Application Developer and aspiring Data Analyst | Java & Spring Boot | React Native & Angular | Python , MySQL & PowerBI</h3>
 
 <p align="center">
   <a href="https://ingasportfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
@@ -15,14 +15,14 @@
 ---
 
 ### 👨‍💻 About Me
-I am a passionate Full-Stack Developer based in Cape Town, South Africa, currently completing my Diploma in ICT: Applications Development at CPUT. I have hands-on experience building web and mobile applications using Java, Spring Boot, React, and TypeScript. 
+I am a passionate Full-Stack Developer based in Cape Town, South Africa, currently finilizing my Diploma in ICT: Applications Development at CPUT. I have hands-on experience building web and mobile applications using Java, Spring Boot, React, and TypeScript. 
 
 I love solving complex problems across the frontend, backend, and database layers. My goal is to build secure, scalable applications that provide real-world value. I thrive in collaborative environments and am always eager to learn new technologies.
 
 - 🔭 I’m currently working on **DealNest**, **StoreCraft**, and **CareerWise** (a job-finding platform with Phumlani Mdlalo).
 - 🌱 I’m currently learning **Microservice Design Concepts** and **Docker**
 - 💬 Ask me about **Java, Spring Boot, React, or PostgreSQL**
-- ⚡ Fun fact: I speak **6 languages** (English, Afrikaans, Sesotho, isiZulu, Sepedi, isiXhosa)
+- ⚡ Fun fact: I speak **6 languages** (English, Afrikaans, Sesotho, IsiZulu, SePedi, IsiXhosa)
 
 ---
 
